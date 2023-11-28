@@ -1,4 +1,4 @@
-# Recipe-app  ->[Link] (https://clever-raindrop-75f416.netlify.app/)
+# Recipe-app  ->[Link](https://clever-raindrop-75f416.netlify.app/)
 <p> This is a Recipe App developed using HTML, CSS, and JavaScript. It allows users to discover random recipes, search for specific recipes, and add their favorite recipes to their collection.</p>
  <h2> Features </h2>
     
