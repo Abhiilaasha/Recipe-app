@@ -33,4 +33,4 @@
 <a href="https://imgur.com/RzBtTK4"><img src="https://i.imgur.com/RzBtTK4.png" title="source: imgur.com" /></a>
 
 <h2> License </h2>
-<p> This project is licensed under the MIT<code>License </code>.</p>
+<p> This project is licensed under the <code> MITLicense </code>.</p>
